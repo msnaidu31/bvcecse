@@ -1,0 +1,29 @@
+body {
+    background-image:linear-gradient(to right,#43c6ac, #f8ffae);
+
+}
+
+.container {
+    padding-top:10px;
+    padding-bottom:10px;
+    max-width:1200px;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+
+.kit {
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+
+.card {
+    height:450px;
+}
+
+.card body {
+    height:50%;
+}
+
+.card-img-top {
+    height:50%;
+}

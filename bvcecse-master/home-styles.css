@@ -1,0 +1,125 @@
+        body {
+            background-color: #EAF3FA;
+        }
+
+        .h-img {
+            width: 100%;
+            
+        }
+        .btn {
+            width: 180px; 
+            background-color: #e9ebf0;
+            color: black;
+            padding: 10px 20px;
+            font-size: 24px;
+        } 
+
+        .dropdown-toggle {
+            background-color: #FA9746;
+            color: white;
+            margin-right: 20px;
+        }
+        .dropdown-toggle:hover {
+            background-color: white;
+            border:2px solid #FA9746;
+        }
+
+        .dropdown-item:hover {
+            background-color: #FA9746;
+            color: white;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        
+  
+       .mid {
+           background-image: url("tech.jpg");
+           background-size: cover;
+           height: 100%;
+       }
+
+   
+       
+       p {
+            font-size: 200%;
+        }
+      
+      .top-div {
+          margin: 5px;
+      }
+      .dept-head {
+          margin: 30px;
+          color: navy;
+          padding: 15px;
+          
+      }
+      #syll {
+          /* margin: 5px; */
+          padding-left: 25px;
+          
+      }
+
+      #tb {
+          /* margin: 5px; */
+
+          padding-right: 25px;
+      }
+
+      .foot {
+          background-color: #2e5372;
+          height: 50px;
+          color: white;
+          
+      }
+      .foot-note {
+          color: white;
+          padding-top: 10px;
+          
+      }
+      .para {
+          text-align: justify;
+      }
+      #sub-head {
+          text-align: center;
+          color:#FA9746;
+      }
+
+      h6 {
+          /* padding-bottom: 80px; */
+          text-align: right;
+        }
+
+
+    .foot-note1 {
+        position: relative;
+        bottom: 30px;
+        float: right;
+        padding-right: 10px;
+        color: white;
+    }
+   
+
+      .clg {
+          
+          width: 100%;
+      }
+    
+    
+     
+ 
+      .cp {
+          text-align: center;
+      }
+      .card {
+         
+          border: none;
+      }
+
+      .sit {
+        width:500px;
+   
+      }
+      
